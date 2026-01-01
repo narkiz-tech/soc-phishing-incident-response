@@ -6,7 +6,7 @@ The project demonstrates how phishing incidents are detected, analysed, and resp
 
 ---
 
-## 📌 Project Scope
+## Project Scope
 
 This repository covers:
 - Analysis of a simulated phishing incident detected by IRONSCALES
@@ -38,7 +38,7 @@ Copy code
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Phishing detection & triage  
 - Incident analysis and validation  
@@ -48,7 +48,7 @@ Copy code
 
 ---
 
-## 🔗 Key Documents
+## Key Documents
 
 - **Phishing Incident Case Study:** `phishing-incident.md`  
 - **Analyst Analysis & Insights:** `analysis.md`  
@@ -57,7 +57,7 @@ Copy code
 
 ---
 
-## 🎯 Intended Audience
+## Intended Audience
 
 This project is intended for:
 - SOC / Cyber Security recruiters
